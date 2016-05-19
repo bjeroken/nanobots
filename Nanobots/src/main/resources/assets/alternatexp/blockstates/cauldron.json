@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "level=0": { "model": "alternatexp:cauldron_empty" },
+        "level=1": { "model": "alternatexp:cauldron_level1" },
+        "level=2": { "model": "alternatexp:cauldron_level2" },
+        "level=3": { "model": "alternatexp:cauldron_level3" }
+    }
+}

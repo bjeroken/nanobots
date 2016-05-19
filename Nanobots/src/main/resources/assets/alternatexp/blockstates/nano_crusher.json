@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=north": { "model": "alternatexp:nano_crusher" },
+        "facing=south": { "model": "alternatexp:nano_crusher", "y": 180 },
+        "facing=west":  { "model": "alternatexp:nano_crusher", "y": 270 },
+        "facing=east":  { "model": "alternatexp:nano_crusher", "y": 90 },
+        "active=false,facing=north": { "model": "alternatexp:nano_crusher" },
+        "active=false,facing=south": { "model": "alternatexp:nano_crusher", "y": 180 },
+        "active=false,facing=west":  { "model": "alternatexp:nano_crusher", "y": 270 },
+        "active=false,facing=east":  { "model": "alternatexp:nano_crusher", "y": 90 },
+        "active=true,facing=north": { "model": "alternatexp:nano_crusher_burning" },
+        "active=true,facing=south": { "model": "alternatexp:nano_crusher_burning", "y": 180 },
+        "active=true,facing=west":  { "model": "alternatexp:nano_crusher_burning", "y": 270 },
+        "active=true,facing=east":  { "model": "alternatexp:nano_crusher_burning", "y": 90 }
+    }
+}

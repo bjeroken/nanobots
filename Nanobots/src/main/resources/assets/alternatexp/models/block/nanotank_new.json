@@ -1,0 +1,23 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "alternatexp:blocks/nanotank_side",
+        "front": "alternatexp:blocks/nanotank_side",
+        "arrow": "alternatexp:blocks/nanotank_side_arrow"
+    },
+    "elements": [
+        {
+            "name": "Tank",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 16.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "east": { "texture": "#arrow", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "rotation": 180 },
+                "south": { "texture": "#front", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "west": { "texture": "#arrow", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "up": { "texture": "#arrow", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "rotation": 90 },
+                "down": { "texture": "#arrow", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "rotation": 270 }
+            }
+        }
+    ]
+}

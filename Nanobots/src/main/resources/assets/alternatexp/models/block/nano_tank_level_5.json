@@ -1,0 +1,14 @@
+{
+"ambientocclusion": false,
+    "textures": {
+        "water": "alternatexp:blocks/lava_still"
+    },
+    "elements": [
+        {   "from": [ 2, 7.2, 2 ],
+            "to": [ 14, 7.2, 14 ],
+            "faces": {
+                "up": { "uv": [ 2, 2, 14, 14 ], "texture": "#water" }
+            }
+        }
+    ]
+}

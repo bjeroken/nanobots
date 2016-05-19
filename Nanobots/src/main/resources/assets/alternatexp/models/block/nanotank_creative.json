@@ -1,0 +1,35 @@
+{
+    "textures": {
+        "particle": "alternatexp:blocks/nanotank_side_creative",
+        "0": "alternatexp:blocks/lava_still",
+        "1": "alternatexp:blocks/nanotank_side_creative"
+    },
+    "elements": [
+        {
+            "name": "Tank",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 16.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "east": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "south": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "west": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "up": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "down": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        },
+        {
+               "name": "Fluid",
+               "from": [ 0.01, 0.01, 0.01 ], 
+               "to": [ 15.99, 15.99, 15.99 ], 
+               "faces": {
+                  "north": { "texture": "#0", "uv": [ 0.0, 0.0, 15.99, 15.99 ] },
+                  "east": { "texture": "#0", "uv": [ 0.0, 0.0, 15.99, 15.99 ] },
+                  "south": { "texture": "#0", "uv": [ 0.0, 0.0, 15.99, 15.99 ] },
+                  "west": { "texture": "#0", "uv": [ 0.0, 0.0, 15.99, 15.99 ] },
+                  "up": { "texture": "#0", "uv": [ 0.0, 0.0, 15.99, 15.99 ] },
+                  "down": { "texture": "#0", "uv": [ 0.0, 0.0, 15.99, 15.99 ] }
+            }
+        }
+    ]
+}

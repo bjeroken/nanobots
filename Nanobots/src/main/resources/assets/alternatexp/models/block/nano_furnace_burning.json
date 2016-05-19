@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "alternatexp:blocks/nanofurnace_top",
+        "front": "alternatexp:blocks/nanofurnace_front_on",
+        "side": "alternatexp:blocks/nanofurnace_side"
+    }
+}

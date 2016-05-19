@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "normal": { "model": "alternatexp:fluid_nano" },
+        "level=0": { "model": "alternatexp:fluid_nano" },
+        "level=1": { "model": "alternatexp:fluid_nano" },
+        "level=2": { "model": "alternatexp:fluid_nano1" },
+        "level=3": { "model": "alternatexp:fluid_nano2" },
+        "level=4": { "model": "alternatexp:fluid_nano3" },
+        "level=5": { "model": "alternatexp:fluid_nano4" },
+        "level=6": { "model": "alternatexp:fluid_nano5" },
+        "level=7": { "model": "alternatexp:fluid_nano6" },
+        "level=8": { "model": "alternatexp:fluid_nanox7" },
+        "level=9": { "model": "alternatexp:fluid_nanox9" },
+        "level=10": { "model": "alternatexp:fluid_nano10x" },
+        "level=11": { "model": "alternatexp:fluid_nano11x" },
+        "level=12": { "model": "alternatexp:fluid_nano12x" },
+        "level=13": { "model": "alternatexp:fluid_nano13x" },
+        "level=14": { "model": "alternatexp:fluid_nano14x" },
+        "level=15": { "model": "alternatexp:fluid_nano15x" }
+    }
+}

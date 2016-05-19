@@ -1,0 +1,24 @@
+{
+        "ambientocclusion": false,
+        "textures": {
+            "down": "blocks/glowstone",
+            "up": "blocks/glowstone",
+            "north": "blocks/glowstone",
+            "south": "blocks/glowstone",
+            "east": "blocks/glowstone",
+            "west": "blocks/glowstone"
+         },
+  "elements": [
+    {  "from": [5.5, 5.5, 5.5],
+      "to": [10.5, 10.5, 10.5],
+      "faces": {
+        "down": {"uv": [ 5, 5, 10, 10], "texture": "#down"},
+        "up": {"uv": [ 5, 5, 10, 10], "texture": "#up"},
+        "north": {"uv": [ 0, 0, 5, 5], "texture": "#north"},
+        "south": {"uv": [ 0, 0, 5, 5], "texture": "#south"},
+        "west": {"uv": [ 11, 11, 16, 16], "texture": "#west"},
+        "east": {"uv": [ 11, 11, 16, 16], "texture": "#east"}
+      }
+    }
+  ]
+}

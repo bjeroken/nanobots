@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal":   {"model": "alternatexp:nanopiperelaycore"},
+        "down":     {"model": "alternatexp:nanopipe_leg_relay"},
+        "east":     {"model": "alternatexp:nanopipe_leg_relay_e"},
+        "north":    {"model": "alternatexp:nanopipe_leg_relay_n"},
+        "south":    {"model": "alternatexp:nanopipe_leg_relay_s"},
+        "up":       {"model": "alternatexp:nanopipe_leg_relay_u"},
+        "west":     {"model": "alternatexp:nanopipe_leg_relay_w"}
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "forge_marker":1,
+    "defaults":{
+    "textures": {
+        "0": "alternatexp:blocks/lava_still",
+        "2": "alternatexp:blocks/lava_still",
+        "1": "alternatexp:blocks/nanotank_side",
+        "particle": "alternatexp:blocks/lava_still"
+    },
+        "model":"alternatexp:nanotank"
+    },
+    "variants":{
+        "inventory" : [
+            { },
+            {   "submodel": "alternatexp:nanotank_level1"   },
+            {   "submodel": "alternatexp:nanotank_level2"   },
+            {   "submodel": "alternatexp:nanotank_level3"   },
+            {   "submodel": "alternatexp:nanotank_level4"   },
+            {   "submodel": "alternatexp:nanotank_level5"   },
+            {   "submodel": "alternatexp:nanotank_level6"   },
+            {   "submodel": "alternatexp:nanotank_level7"   },
+            {   "submodel": "alternatexp:nanotank_level8"   },
+            {   "submodel": "alternatexp:nanotank_level9"   },
+            {   "submodel": "alternatexp:nanotank_level10"  },
+            {   "submodel": "alternatexp:nanotank_level11"  },
+            {   "submodel": "alternatexp:nanotank_level12"  },
+            {   "submodel": "alternatexp:nanotank_level13"  },
+            {   "submodel": "alternatexp:nanotank_level14"  },
+            {   "submodel": "alternatexp:nanotank_level15"  }],
+        "level":{
+            0:{ },
+            1:{     "submodel": "alternatexp:nanotank_level1"   },
+            2:{     "submodel": "alternatexp:nanotank_level2"   },
+            3:{     "submodel": "alternatexp:nanotank_level3"   },
+            4:{     "submodel": "alternatexp:nanotank_level4"   },
+            5:{     "submodel": "alternatexp:nanotank_level5"   },
+            6:{     "submodel": "alternatexp:nanotank_level6"   },
+            7:{     "submodel": "alternatexp:nanotank_level7"   },
+            8:{     "submodel": "alternatexp:nanotank_level8"   },
+            9:{     "submodel": "alternatexp:nanotank_level9"   },
+            10:{    "submodel": "alternatexp:nanotank_level10"  },
+            11:{    "submodel": "alternatexp:nanotank_level11"  },
+            12:{    "submodel": "alternatexp:nanotank_level12"  },
+            13:{    "submodel": "alternatexp:nanotank_level13"  },
+            14:{    "submodel": "alternatexp:nanotank_level14"  },
+            15:{    "submodel": "alternatexp:nanotank_level15"  }}
+    }
+}

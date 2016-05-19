@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "alternatexp:nano_liquidizer_burning" },
+        "facing=south": { "model": "alternatexp:nano_liquidizer_burning", "y": 180 },
+        "facing=west":  { "model": "alternatexp:nano_liquidizer_burning", "y": 270 },
+        "facing=east":  { "model": "alternatexp:nano_liquidizer_burning", "y": 90 }
+    }
+}

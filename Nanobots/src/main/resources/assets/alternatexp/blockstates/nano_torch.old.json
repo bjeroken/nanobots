@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=east": { "model": "alternatexp:nano_torch_wall" },
+        "facing=north": { "model": "alternatexp:nano_torch_wall", "y": 270 },
+        "facing=south": { "model": "alternatexp:nano_torch_wall", "y": 90 },
+        "facing=up": { "model": "alternatexp:nano_torch" },
+        "facing=west": { "model": "alternatexp:nano_torch_wall", "y": 180 }
+    }
+}

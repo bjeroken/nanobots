@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "alternatexp:blocks/nano_crusher_top",
+        "front": "alternatexp:blocks/nano_crusher_front_off",
+        "side": "alternatexp:blocks/nano_crusher_side"
+    }
+}

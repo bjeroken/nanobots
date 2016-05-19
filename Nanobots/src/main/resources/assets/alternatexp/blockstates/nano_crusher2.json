@@ -1,0 +1,44 @@
+{
+    "forge_marker":1,
+    "parent": "block/orientable",
+    "defaults":{
+        "textures":{
+            "top":"alternatexp:blocks/nano_crusher_top",
+            "front":"alternatexp:blocks/nano_crusher_front_off",
+            "side":"alternatexp:blocks/nano_crusher_side"
+        },
+        "model":"alternatexp:nano_crusher2",
+        "uvlock":true
+    },
+    "variants":{
+        "active":{
+            "true":{
+                "textures":{
+                    "front":"alternatexp:blocks/nano_crusher_front_on"
+                }
+            },
+            "false":{
+                "textures":{
+                    "front":"alternatexp:blocks/nano_crusher_front_off"
+                }
+            }
+        },
+        "facing":{
+            "north":{
+                "model":"alternatexp:nano_crusher2"
+            },
+            "south":{
+                "model":"alternatexp:nano_crusher2",
+                "y":180
+            },
+            "west":{
+                "model":"alternatexp:nano_crusher2",
+                "y":270
+            },
+            "east":{
+                "model":"alternatexp:nano_crusher2",
+                "y":90
+            }
+        }
+    }
+}

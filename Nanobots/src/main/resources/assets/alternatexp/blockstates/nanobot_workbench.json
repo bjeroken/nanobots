@@ -1,0 +1,15 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "alternatexp:nanobot_workbench"
+    },
+    "variants": {
+        "active": {
+            "true": {
+                "submodel": "alternatexp:nanobot_workbench_active"
+            },
+            "false": {
+            }
+        }
+    }
+}

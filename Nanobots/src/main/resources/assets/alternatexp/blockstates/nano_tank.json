@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "level=0": { "model": "alternatexp:nano_tank_empty" },
+        "level=1": { "model": "alternatexp:nano_tank_level1" },
+        "level=10": { "model": "alternatexp:nano_tank_level10" },
+        "level=11": { "model": "alternatexp:nano_tank_level11" },
+        "level=12": { "model": "alternatexp:nano_tank_level12" },
+        "level=13": { "model": "alternatexp:nano_tank_level13" },
+        "level=14": { "model": "alternatexp:nano_tank_level14" },
+        "level=15": { "model": "alternatexp:nano_tank_level15" },
+        "level=2": { "model": "alternatexp:nano_tank_level2" },
+        "level=3": { "model": "alternatexp:nano_tank_level3" },
+        "level=4": { "model": "alternatexp:nano_tank_level4" },
+        "level=5": { "model": "alternatexp:nano_tank_level5" },
+        "level=6": { "model": "alternatexp:nano_tank_level6" },
+        "level=7": { "model": "alternatexp:nano_tank_level7" },
+        "level=8": { "model": "alternatexp:nano_tank_level8" },
+        "level=9": { "model": "alternatexp:nano_tank_level9" }
+    }
+}

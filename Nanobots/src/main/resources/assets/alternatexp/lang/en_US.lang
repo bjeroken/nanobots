@@ -1,0 +1,134 @@
+#Items
+itemGroup.tab_axp=Alternate XP
+tile.test_block.name=Test Block
+item.nanobot_queen_dormant.name=Dormant Nanobot Queen
+item.nanobot_queen_active.name=Active Nanobot Queen
+item.nanobot_fuel_potion.name=Nanobot Fuel Potion
+item.nanobot_controller.name=Nanobot Controller
+item.machine_core.name=Nanobot Machine Core
+item.nanobot_fuel_controller.name=Nanobot Fuel Controller
+item.basic_nanobots.name=Basic Nanobots
+item.upgrade_card.name=Nanobot Upgrade Card
+item.nano_spanner.name=Nanobot Spanner
+item.crushed_gold.name=Crushed Gold
+item.crushed_iron.name=Crushed Iron
+item.nano_bow.name=Nanobot Bow
+item.link_tool.name=Nanobot Link Tool
+item.nanobot_bucket.name=Nanobot Fuel Bucket
+
+#Weapons
+item.nano_diamond_sword.name=Nano Diamond Sword
+item.nano_diamond_hoe.name=Nano Diamond Hoe
+item.nano_diamond_axe.name=Nano Diamond Axe
+item.nano_diamond_pickaxe.name=Nano Diamond PickAxe
+item.nano_diamond_shovel.name=Nano Diamond Shovel
+
+item.nano_golden_sword.name=Nano Gold Sword
+item.nano_gold_hoe.name=Nano Gold Hoe
+item.nano_gold_axe.name=Nano Gold Axe
+item.nano_gold_pickaxe.name=Nano Gold PickAxe
+item.nano_gold_shovel.name=Nano Gold Shovel
+
+item.nano_iron_sword.name=Nano Iron Sword
+item.nano_iron_hoe.name=Nano Iron Hoe
+item.nano_iron_axe.name=Nano Iron Axe
+item.nano_iron_pickaxe.name=Nano Iron PickAxe
+item.nano_iron_shovel.name=Nano Iron Shovel
+
+item.nano_stone_sword.name=Nano Stone Sword
+item.nano_stone_hoe.name=Nano Stone Hoe
+item.nano_stone_axe.name=Nano Stone Axe
+item.nano_stone_pickaxe.name=Nano Stone PickAxe
+item.nano_stone_shovel.name=Nano Stone Shovel
+
+item.nano_wooden_sword.name=Nano Wood Sword
+item.nano_wooden_hoe.name=Nano Wood Hoe
+item.nano_wooden_axe.name=Nano Wood Axe
+item.nano_wooden_pickaxe.name=Nano Wood PickAxe
+item.nano_wooden_shovel.name=Nano Wood Shovel
+
+#Armor
+item.nanobot_leggingsGold.name=Nanobot Golden Leggings
+item.nanobot_bootsGold.name=Nanobot Golden Boots
+item.nanobot_chestplateGold.name=Nanobot Golden Chestplate
+item.nanobot_helmetGold.name=Nanobot Golden Helmet
+
+item.nanobot_leggingsDiamond.name=Nanobot Diamond Leggings
+item.nanobot_bootsDiamond.name=Nanobot Diamond Boots
+item.nanobot_chestplateDiamond.name=Nanobot Diamond Chestplate
+item.nanobot_helmetDiamond.name=Nanobot Diamond Helmet
+
+item.nanobot_leggingsIron.name=Nanobot Iron Leggings
+item.nanobot_bootsIron.name=Nanobot Iron Boots
+item.nanobot_chestplateIron.name=Nanobot Iron Chestplate
+item.nanobot_helmetIron.name=Nanobot Iron Helmet
+
+item.nanobot_leggingsChain.name=Nanobot Chain Leggings
+item.nanobot_bootsChain.name=Nanobot Chain Boots
+item.nanobot_chestplateChain.name=Nanobot Chain Chestplate
+item.nanobot_helmetChain.name=Nanobot Chain Helmet
+
+item.nanobot_leggingsCloth.name=Nanobot Leather Leggings
+item.nanobot_bootsCloth.name=Nanobot Leather Boots
+item.nanobot_chestplateCloth.name=Nanobot Leather Chestplate
+item.nanobot_helmetCloth.name=Nanobot Leather Helmet
+
+#Blocks
+tile.nanobot_workbench.name=Nanobot Workbench
+tile.nanobot_enchanting.name=Nanobot Enchanting Table
+tile.nano_pipe.name=Nanobot Pipe
+tile.nano_pipe_relay.name=Nanobot Pipe Wireless Relay
+tile.nano_fuel_generator.name=Nanobot Fuel Generator
+tile.nano_furnace.name=Nanobot Furnace
+tile.nano_crusher.name=Nanobot Crusher
+tile.nano_tank2.name=Nanobot Fuel Tank
+tile.nano_tank2_creative.name=Nanobot Fuel Tank Creative
+tile.fluid_nano_block.name=Nanobot Fuel
+
+#Containers
+container.nano_crusher=Nanobot Crusher
+container.nano_fuel=Nanobot Fuel
+container.nano_furnace=Nanobot Furnace
+container.nano_fuel_generator=Nanobot Fuel Generator
+nanobot.workbench=Nanobot Workbench
+nanobot.enchant=Nanobot Enchanter
+
+#Achievements
+achievement.get_queen=Get Queen
+achievement.get_queen.desc=Allow a nanobot queen to enhance you.
+achievement.level5=Level 5
+achievement.level5.desc=Gain Nanobot Level 5
+achievement.level10=Level 10
+achievement.level10.desc=Gain Nanobot Level 10
+achievement.level15=Level 15
+achievement.level15.desc=Gain Nanobot Level 15
+achievement.level20=Level 20
+achievement.level20.desc=Gain Nanobot Level 20
+achievement.level25=Level 25
+achievement.level25.desc=Gain Nanobot Level 25
+achievement.level30=Level 30
+achievement.level30.desc=Gain Nanobot Level 30
+achievement.level35=Level 35
+achievement.level35.desc=Gain Nanobot Level 35
+achievement.level40=Level 40
+achievement.level40.desc=Gain Nanobot Level 40
+achievement.level45=Level 45
+achievement.level45.desc=Gain Nanobot Level 45
+achievement.level50=Level 50
+achievement.level50.desc=Gain Nanobot Level 50
+
+#Nanobot Controller texts
+gui.off=Off
+gui.on=On
+gui.controller=Nanobot Control Settings
+gui.config=Config
+gui.done=Done
+gui.xpdrain=XP drain
+gui.stepassist=Step Assist
+gui.xpmultiplier=XP conversion multiplier: 
+queen.status=Queen status: 
+status.noqueen=No queen.
+status.normal=Normal.
+status.dead=Dead.
+status.unknown=Unknown.
+

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nanobots",
+  "name": "Nanobots",
+  "description": "A mod that brings tiny little machines",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bjeroken"],
+  "credits": "The Forge makers, and all the tutorial/guide makers out there",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

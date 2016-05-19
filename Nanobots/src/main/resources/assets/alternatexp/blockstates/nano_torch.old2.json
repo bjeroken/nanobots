@@ -1,0 +1,86 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "alternatexp:nanorelaycore"
+    },
+    "variants": {
+        "down": {
+            "none": {
+            },
+            "input": {
+                "submodel": "alternatexp:nanowire_leg_input"
+            },
+            "output": {
+                "submodel": "alternatexp:nanowire_leg_output"
+            },
+            "relay": {
+                "submodel": "alternatexp:nanowire_leg_relay"
+            }
+        },
+        "east": {
+            "none": {
+            },
+            "input": {
+                "submodel": "alternatexp:nanowire_leg_input", "x": 90, "y": 270
+            },
+            "output": {
+                "submodel": "alternatexp:nanowire_leg_output", "x": 90, "y": 270
+            },
+            "relay": {
+                "submodel": "alternatexp:nanowire_leg_relay", "x": 90, "y": 270
+            }
+        },
+        "north": {
+            "none": {
+            },
+            "input": {
+                "submodel": "alternatexp:nanowire_leg_input", "x": 90, "y": 180
+            },
+            "output": {
+                "submodel": "alternatexp:nanowire_leg_output", "x": 90, "y": 180
+            },
+            "relay": {
+                "submodel": "alternatexp:nanowire_leg_relay", "x": 90, "y": 180
+            }
+        },
+        "south": {
+            "none": {
+            },
+            "input": {
+                "submodel":  "alternatexp:nanowire_leg_input", "x": 90
+            },
+            "output": {
+                "submodel":  "alternatexp:nanowire_leg_output", "x": 90
+            },
+            "relay": {
+                "submodel":  "alternatexp:nanowire_leg_relay", "x": 90
+            }
+        },
+        "up": {
+            "none": {
+            },
+            "input": {
+                "submodel": "alternatexp:nanowire_leg_input", "x": 180
+            },
+            "output": {
+                "submodel": "alternatexp:nanowire_leg_output", "x": 180
+            },
+            "relay": {
+                "submodel": "alternatexp:nanowire_leg_relay", "x": 180
+            }
+        },
+        "west": {
+            "none": {
+            },
+            "input": {
+                "submodel":  "alternatexp:nanowire_leg_input", "x": 90, "y": 90
+            },
+            "output": {
+                "submodel":  "alternatexp:nanowire_leg_output", "x": 90, "y": 90
+            },
+            "relay": {
+                "submodel":  "alternatexp:nanowire_leg_relay", "x": 90, "y": 90
+            }
+        }
+    }
+}

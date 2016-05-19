@@ -1,0 +1,25 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+        "particle": "alternatexp:blocks/nanopipe",
+        "0": "alternatexp:blocks/nanopipe"
+        },
+        "model": "alternatexp:nanopipe_core"
+    },
+    "variants": {
+        "normal":   {"model": "alternatexp:nanopipe_core" },
+        "down":     {"model": "alternatexp:nanopipe_leg_relay"},
+        "east":     {"model": "alternatexp:nanopipe_leg_relay_e"},
+        "north":    {"model": "alternatexp:nanopipe_leg_relay_n"},
+        "south":    {"model": "alternatexp:nanopipe_leg_relay_s"},
+        "up":       {"model": "alternatexp:nanopipe_leg_relay_u"},
+        "west":     {"model": "alternatexp:nanopipe_leg_relay_w"},
+        "downout":     {"model": "alternatexp:nanopipe_leg_relay_out_d"},
+        "eastout":     {"model": "alternatexp:nanopipe_leg_relay_out_e"},
+        "northout":    {"model": "alternatexp:nanopipe_leg_relay_out_n"},
+        "southout":    {"model": "alternatexp:nanopipe_leg_relay_out_s"},
+        "upout":       {"model": "alternatexp:nanopipe_leg_relay_out_u"},
+        "westout":     {"model": "alternatexp:nanopipe_leg_relay_out_w"}
+    }
+}

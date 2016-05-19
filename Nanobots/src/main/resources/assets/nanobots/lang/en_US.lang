@@ -1,0 +1,104 @@
+#ITEMS
+item.nanobots:block_replacer.name=Block Replacer
+item.nanobots:sleeping_pill.name=Sleeping Pill
+item.nanobots:debug_item.name=Debug Item
+
+
+#GUI
+itemblockswapper.empty=Empty
+itemblockswapper.swapsto=Swaps to:
+itemblockswapper.setto=Set block to: 
+itemblockswapper.invalid=Not a valid block.
+itemblockswapper.noitemininventory=No source blocks in inventory.
+itemblockswapper.sameblock=Source and target blocks are the same.
+itemblockswapper.nosourceregistered=No source block registered, sneak right-click a block first!
+
+#Perks
+perk.pointcost=Perk point cost:
+gui.perks=Perks
+perks.intelligence=Intelligence
+perks.stamina=Stamina
+perks.agility=Agility
+perk.amount.desc=This is the amount of perk points you have available to use.
+perk.taken=Activated
+perk.requires=Requires Active queen and
+perk.perkpoint=1 perk point
+perk.activate=Right-click to activate.
+
+#Int Perks
+perk.intelligence=Intelligence
+perk.intelligence.desc=Increases your internal nanobot fuel pool by 10 per nanobot level.
+perk.fuelefficiency1=Fuel Efficiency Level 1
+perk.fuelefficiency2=Fuel Efficiency Level 2
+perk.machineefficiency1=Machine Efficiency Level 1
+perk.machineefficiency2=Machine Efficiency Level 2
+perk.machineaccess=Machine Access Upgrade
+perk.machinehopper=Machine Hopper Upgrade
+perk.xpconversion1=XP Conversion Rate Level 1
+perk.xpconversion2=XP Conversion Rate Level 2
+
+perk.fuelefficiency1.desc=Reduces the fuel usage by your nanobot controlled machines by 10 percent. Also reduces machine processing speed by 0.5 seconds.
+perk.fuelefficiency2.desc=Reduces the fuel usage by your nanobot controlled machines by 20 percent. Also reduces machine processing speed by 0.5 seconds.
+perk.machineefficiency1.desc=Increases the bonus output of your nanobot controlled machines to 15 percent. Also reduces machine processing speed by 0.5 seconds.
+perk.machineefficiency2.desc=Increases the bonus output of your nanobot controlled machines to 30 percent. Also reduces machine processing speed by 0.5 seconds.
+perk.machineaccess.desc=Lets hoppers to extract from bottom slots. Also reduces machine processing speed by 0.5 seconds.
+perk.machinehopper.desc=Lets hoppers input to your nanobot controlled machines. Also reduces machine processing speed by 0.5 seconds.
+
+perk.xpconversion1.desc=You get a 20 percent bonus to additional nanobot experience when converting to nanobot xp.
+perk.xpconversion2.desc=You get a 40 percent bonus to additional nanobot experience when converting to nanobot xp.
+
+#Stam Perks
+perk.stamina=Stamina
+perk.regeneration1=Regeneration Level 1
+perk.regeneration2=Regeneration Level 2
+perk.autofeed=Auto Feed
+perk.fireresistance=Fire Resistance
+perk.miningspeed1=Mining Speed Level 1
+perk.miningspeed2=Mining Speed Level 2
+perk.attackdamage1=Attack Damage Increase 1
+
+perk.stamina.desc=Your nanobot infused tools and weapons auto regenerate slowly when equipped. Not Yet Implemented
+perk.autofeed.desc=Your nanobots automatically feeds you from your inventory. Not Yet Implemented
+
+perk.miningspeed1.desc=Sets your mining speed to 1.5x when using nanobot infused tools.
+perk.miningspeed2.desc=Sets your mining speed to 2x when using nanobot infused tools.
+perk.attackdamage1.desc=Increases your attack damage when using nanobot infused tools and weapons. Combine upgrade card with tool/weapon in crafting.
+
+perk.fireresistance.desc=Sometimes gives you a short fire resistance buff when on fire or in lava.
+perk.regeneration1.desc=You get a very moderate heal every 10 seconds. And when you are below 5 hearts you sometimes get a short resistance and regen buff.
+perk.regeneration2.desc=You get a moderate heal every 10 seconds. And when you are below 5 hearts you sometimes get a resistance and regen buff.
+
+#Agi Perks
+perk.agility=Agility
+perk.runspeed1=Run Speed Level 1
+perk.waterbreathing=Water Breathing
+perk.bowspeed=Bow Speed Upgrade
+perk.fallreduce1=Fall Reduction Level 1
+perk.fallreduce2=Fall Reduction Level 2
+perk.jumpboost1=Jump Boost Level 1
+perk.jumpboost2=Jump Boost Level 2
+perk.stepassist=Step Assist
+
+perk.agility.desc=Sometimes increases your food saturation while sprinting. lets you sprint for longer without getting hungry.
+perk.runspeed1.desc=Increases your sprinting speed.
+perk.fallreduce1.desc=Lets you fall 6 blocks down without taking damage. Consumes nanobot fuel.
+perk.fallreduce2.desc=Lets you fall 9 blocks down without taking damage. Consumes nanobot fuel.
+perk.jumpboost1.desc=Lets you jump 2 blocks high, and jump over longer gaps while sprint-jumping.
+perk.jumpboost2.desc=Lets you jump 3 blocks high, and jump over even longer gaps while sprint-jumping.
+perk.stepassist.desc=Lets you step up 1 block high.
+perk.waterbreathing.desc=Consumes nanobot fuel to give you air under water, and night vision.
+perk.bowspeed.desc=Improves the nanobot bow, giving faster shooting speed and better accuracy.
+
+#Misc text
+nanobots.levelup=Congratulations! Your nanobots leveled up to level %s!
+nanobots.perkgained=You gained a new perk point, you now have %s perks points available!
+queen.prevent=Your queen is active, and prevents the activation of the dormant queen.
+queen.happy=The queen wraps firmly around your spine. Nanobots from the queen spreads into your body.
+queen.unhappy=Your queen reacts violently to the outside queen, and kills it, damaging the surroundings in the process.
+queen.takeover=The new queen quickly consumes the dead queen and wraps around your spine. All of your nanobots are reactivated.
+queen.sting=Your feel a slight sting, and then you feel fine.
+queen.die=Your nanobot queen dies from lack of fuel. The nanobots in your body shuts down.
+xpdrain.activated=Your nanobots are now trying to convert experience.
+xpdrain.deactivated=Your nanobots have stopped converting experience.
+fuel.low.falldistance=Not enough nanobot fuel to reduce fall damage.
+nanobot.repair.cost=Fuel cost:
